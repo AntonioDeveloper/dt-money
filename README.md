@@ -2,4 +2,4 @@
 
 Dashboard de controle financeiro, feito em React.
 
-![Tela da Aplicação] (screen.jpg)
+![screen.jpg](https://github.com/AntonioDeveloper/dt-money/blob/master/src/assets/screen.jpg)
